@@ -1189,7 +1189,7 @@
     echo -e "$CYAN Please make sure to change your private keys in the /etc/yiimp/keys.php file. $COL_RESET"
     echo
     echo -e "$CYAN Xavatar WebSite : https://www.xavatar.com $COL_RESET"
-    echo
+    echo -e "$CYAN Tribe WebSite : http://tribecrypto.net
     echo
     echo -e "$RED***************************************************$COL_RESET"
     echo -e "$RED YOU MUST REBOOT NOW  TO FINALIZE INSTALLATION !!! $COL_RESET"
